@@ -1,0 +1,10 @@
+{
+  "appId": "com.rvcoding.webnativeapptestbed",
+  "appName": "webnative-app-testbed",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
