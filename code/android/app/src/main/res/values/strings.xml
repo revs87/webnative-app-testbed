@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">webnative-app-testbed</string>
+    <string name="title_activity_main">webnative-app-testbed</string>
+    <string name="package_name">com.rvcoding.webnativeapptestbed</string>
+    <string name="custom_url_scheme">com.rvcoding.webnativeapptestbed</string>
+</resources>
